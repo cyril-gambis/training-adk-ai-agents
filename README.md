@@ -1,3 +1,7 @@
+# Lab tutorial sur ADK
+
+https://codelabs.developers.google.com/adk-java-getting-started?hl=en
+
 # Template project for building Java agents with ADK
 
 This GitHub repository is a project template to get started creating your first 
